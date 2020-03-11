@@ -12,8 +12,4 @@ ii)OpenCV
 
 i)Zbar python library (for decoding barcode)
 
-#GROUP MEMBERS
 
-i)SAPTAMI DAS (1728208)-CSSE
-
-ii)VISHAKHA SINHA (1728237)-CSSE
